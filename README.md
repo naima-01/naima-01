@@ -24,6 +24,38 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 30px 0;" />
 
 📂 Featured Projects
+<table>
+  <tr>
+    <th style="width: 25%; text-align: left; vertical-align: top;">Project</th>
+    <th style="width: 10%; text-align: left; vertical-align: top;">Status</th>
+    <th style="width: 45%; text-align: left; vertical-align: top;">Description</th>
+    <th style="width: 20%; text-align: left; vertical-align: top;">Tech</th>
+  </tr>
+  <tr>
+    <td><a href="GitHub Repo URL">Airbnb ML Model</a></td>
+    <td>Complete</td>
+    <td>Built a binary classification model using scikit-learn to predict whether NYC Airbnb listings are instantly bookable, applying feature selection, model tuning, and precision-recall evaluation</td>
+    <td>Python, scikit-learn</td>
+  </tr>
+  <tr>
+    <td><a href="https://isbn9780192835901.itch.io/nullgoesout">Point-and-Click Game</a></td>
+    <td>In Progress</td>
+    <td>Developed a hand-drawn HTML5 game using Godot, featuring custom music, interactive logic, and animation</td>
+    <td>Godot, HTML5</td>
+  </tr>
+  <tr>
+    <td><a href="https://naima-01.github.io/isbn9780192835901/">Digital Diary</a></td>
+    <td>In Progress</td>
+    <td>Created a personal portfolio site using HTML, CSS, and JavaScript to showcase artwork and interactive designs</td>
+    <td>HTML, CSS, JavaScript</td>
+  </tr>
+  <tr>
+    <td><a href="GitHub Repo URL">C++ Creature Simulation</a></td>
+    <td>Complete</td>
+    <td>Built an OOP-based creature simulation in C++ with a polymorphic food system and battle prep using queues and sorting algorithms</td>
+    <td>C++</td>
+  </tr>
+</table>
 
 ![Naima's GitHub stats](https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent)
 
