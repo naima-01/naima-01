@@ -20,15 +20,5 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 [<img src="https://img.shields.io/badge/Godot-282C34?logo=godot-engine&logoColor=478CBF" alt="Godot logo" title="Godot" height="25" />][tech_tools_anchor]&nbsp;
 
 [tech_tools_anchor]: #technical-skills
-<iframe
-  src="https://open.spotify.com/embed/playlist/4i5NOMqK8MlANujDrr8if9"
-  width="300"
-  height="380"
-  frameborder="0"
-  allowtransparency="true"
-  allow="encrypted-media"
-></iframe>
-[![My Spotify Playlist](https://i.scdn.co/image/ab67706f000000038e769b6097a264f4f4a7d1bc)](https://open.spotify.com/playlist/4i5NOMqK8MlANujDrr8if9)
 
-
-
+<hr style="border: none; height: 1px; background-color: #ccc; margin: 30px 0;" />
