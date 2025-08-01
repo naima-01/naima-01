@@ -25,4 +25,4 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 
 📂 Featured Projects
 
-<img src="https://myreadme.vercel.app/api/embed/naima-01?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' />
