@@ -25,4 +25,5 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 
 📂 Featured Projects
 
-<img src='https://www.gitclear.com/snap_changelogs/b02dd34c-b375-42b5-a1c0-bbfaac42917b.png' />
+![Naima's GitHub stats](https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent)
+
