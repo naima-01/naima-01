@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi, I'm Naima!
 
-<!--
-**naima-01/naima-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m currently pursuing a degree in Computer Science with a minor in Math. I’m passionate about combining art and technology to create thoughtful, human-centered digital experiences. With a strong interest in ethical tech and AI, I’m especially drawn to projects that explore creativity, design, and social impact through code.
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
 
 Here are some ideas to get you started:
 
