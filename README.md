@@ -1,7 +1,19 @@
 ## Hi, I'm Naima!
 
-I’m currently pursuing a degree in Computer Science with a minor in Math. I’m passionate about combining art and technology to create thoughtful, human-centered digital experiences. With a strong interest in ethical tech and AI, I’m especially drawn to projects that explore creativity, design, and social impact through code.
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+<table>
+  <tr>
+    <td style="width: 60%; vertical-align: top;">
+      <p>
+        I’m currently pursuing a degree in Computer Science with a minor in Math. I’m passionate about combining art and technology to create thoughtful, human-centered digital experiences. With a strong interest in ethical tech and AI, I’m especially drawn to projects that explore creativity, design, and social impact through code.
+      </p>
+    </td>
+    <td style="width: 40%; text-align: right; vertical-align: top;">
+      <a href="https://github.com/piyushsuthar/github-readme-quotes">
+        <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai" alt="Readme Quotes" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 Here are some ideas to get you started:
 
