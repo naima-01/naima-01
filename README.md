@@ -28,6 +28,7 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
   allowtransparency="true"
   allow="encrypted-media"
 ></iframe>
+[![My Spotify Playlist](https://i.scdn.co/image/ab67706f000000038e769b6097a264f4f4a7d1bc)](https://open.spotify.com/playlist/4i5NOMqK8MlANujDrr8if9)
 
 
 
