@@ -3,9 +3,7 @@
 (  ̳• · • ̳)  ~ ♡  Hi, I'm Naima! ♡
 /       づ              ━━━━━━━━━┛
 </pre>
-
 ##
-
 <p>
 I’m currently pursuing a degree in Computer Science with a minor in Math. I’m passionate about combining art and technology to create thoughtful, human-centered digital experiences. With a strong interest in ethical tech and AI, I’m especially drawn to projects that explore creativity, design, and social impact through code.
 </p>
