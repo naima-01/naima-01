@@ -1,6 +1,6 @@
-## ∧,,,∧    ~   ┏━━━━━━━━┓
-## (  ̳• · • ̳)   ~ ♡  Hi, I'm Naima!   ♡
-## /       づ  ~ ┗━━━━━━━━┛
+ ∧,,,∧    ~   ┏━━━━━━━━┓
+ (  ̳• · • ̳)   ~ ♡  Hi, I'm Naima!   ♡
+ /       づ  ~ ┗━━━━━━━━┛
 
 <div style="float: right; font-family: monospace; white-space: pre; line-height: 1.2; margin-left: 20px;">
 ╱|、♡<br>
