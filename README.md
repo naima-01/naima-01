@@ -22,3 +22,7 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 [tech_tools_anchor]: #technical-skills
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 30px 0;" />
+
+📂 Featured Projects
+
+<img src="https://myreadme.vercel.app/api/embed/naima-01?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
