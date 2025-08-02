@@ -32,10 +32,16 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
     <th style="width: 20%; text-align: left; vertical-align: top;">Tech</th>
   </tr>
   <tr>
-    <td><a href="GitHub Repo URL">Airbnb ML Model</a></td>
+    <td><a href="https://github.com/naima-01/Airbnb-Bookability-Classifier">Airbnb Bookability Classifie</a></td>
     <td>Complete</td>
     <td>Built a binary classification model using scikit-learn to predict whether NYC Airbnb listings are instantly bookable, applying feature selection, model tuning, and precision-recall evaluation</td>
     <td>Python, scikit-learn</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/naima-01/My-eCornell-Portfolio">eCornell ML Portfolio</a></td>
+    <td>Complete</td>
+    <td>Completed a series of machine learning labs (Lab 1–7) covering the full ML life cycle including business understanding, data prep, modeling, evaluation, and CNN implementation</td>
+    <td>Python, scikit-learn, Keras</td>
   </tr>
   <tr>
     <td><a href="https://isbn9780192835901.itch.io/nullgoesout">Point-and-Click Game</a></td>
@@ -56,6 +62,7 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
     <td>C++</td>
   </tr>
 </table>
+
 
 ![Naima's GitHub stats](https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent)
 
