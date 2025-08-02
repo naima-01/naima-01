@@ -64,13 +64,15 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 </table>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; align-items: center; gap: 10px;">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent" style="width: 48%;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent" style="width: 48%;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naima-01&show_icons=true&locale=en&layout=compact&theme=transparent" style="width: 42.9%;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naima-01&show_icons=true&locale=en&layout=compact&theme=transparent" style="width: 42.8%;" />
 
 </div>
+
+
 
 
 
