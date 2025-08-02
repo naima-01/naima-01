@@ -70,7 +70,9 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
       <img src="https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent" style="width: 100%;" />
     </td>
     <td width="9.2%" align="center" valign="middle" style="font-size: 24px; font-weight: bold;">
-      ..........................................................
+       ˖°.𓆩♡𓆪 .°˖˖°.𓆩♡𓆪 .°˖˖°.𓆩♡𓆪 .°˖˖°.
+       𓍊𓋼𓆏𓋼𓍊𓍊𓋼𓆏𓋼𓍊𓍊𓋼𓆏𓋼𓍊𓍊𓋼𓆏𓋼𓍊𓍊𓋼𓆏𓋼𓍊𓍊𓋼𓆏𓋼𓍊
+       ˖°.𓆩♡𓆪 .°˖˖°.𓆩♡𓆪 .°˖˖°.𓆩♡𓆪 .°˖˖°.
     </td>
     <td width="42.8%" align="right" valign="top">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naima-01&show_icons=true&locale=en&layout=compact&theme=transparent" style="width: 100%;" />
