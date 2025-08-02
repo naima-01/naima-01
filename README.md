@@ -65,4 +65,5 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 
 
 ![Naima's GitHub stats](https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
