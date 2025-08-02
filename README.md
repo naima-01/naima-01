@@ -32,7 +32,7 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
     <th style="width: 20%; text-align: left; vertical-align: top;">Tech</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/naima-01/Airbnb-Bookability-Classifier">Airbnb Bookability Classifie</a></td>
+    <td><a href="https://github.com/naima-01/Airbnb-Bookability-Classifier">Airbnb Bookability Classifier</a></td>
     <td>Complete</td>
     <td>Built a binary classification model using scikit-learn to predict whether NYC Airbnb listings are instantly bookable, applying feature selection, model tuning, and precision-recall evaluation</td>
     <td>Python, scikit-learn</td>
