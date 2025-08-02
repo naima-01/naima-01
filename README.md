@@ -64,13 +64,22 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 </table>
 
 
-<div style="display: flex; align-items: center; gap: 10px;">
+<table width="100%">
+  <tr>
+    <td width="48%" align="left" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent" style="width: 100%;" />
+    </td>
+    <td width="9.2%" align="center" valign="middle" style="font-size: 24px; font-weight: bold;">
+      ..........................................................
+    </td>
+    <td width="42.8%" align="right" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naima-01&show_icons=true&locale=en&layout=compact&theme=transparent" style="width: 100%;" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=naima-01&show_icons=true&theme=transparent" style="width: 48%;" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=naima-01&show_icons=true&locale=en&layout=compact&theme=transparent" style="width: 42.8%;" />
 
-</div>
 
 
 
