@@ -23,7 +23,7 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
 
 <hr style="border: none; height: 1px; background-color: #ccc; margin: 30px 0;" />
 
-📂 Featured Projects
+📈 Statistics
 <table>
   <tr>
     <th style="width: 25%; text-align: left; vertical-align: top;">Project</th>
@@ -62,6 +62,8 @@ I’m currently pursuing a degree in Computer Science with a minor in Math. I’
     <td>C++</td>
   </tr>
 </table>
+
+<hr style="border: none; height: 1px; background-color: #ccc; margin: 30px 0;" />
 
 
 <table width="100%">
